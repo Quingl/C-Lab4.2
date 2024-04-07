@@ -1,0 +1,6 @@
+﻿  Laba42.cpp
+C:\Users\11\source\repos\Laba42\Laba42.cpp(31,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\11\source\repos\Laba42\Laba42.cpp(36,21): warning C4018:  <=: несоответствие типов со знаком и без знака
+C:\Users\11\source\repos\Laba42\Laba42.cpp(38,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\11\source\repos\Laba42\Laba42.cpp(48,22): warning C4018:  <: несоответствие типов со знаком и без знака
+  Laba42.vcxproj -> C:\Users\11\source\repos\Laba42\Debug\Laba42.exe
